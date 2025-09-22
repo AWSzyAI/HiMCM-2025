@@ -16,13 +16,12 @@
 		2. `git config --global user.email "szy@nnu.edu.cn"` 
 		3. `git config --global user.name "Ziyan Shi"`
 		4. `cat ~/.ssh/id_rsa.pub`
-
 	- 常用命令
 		- `git clone`
 		- `git pull`
-		- `git add .`
-		- `git commit -am "test"`
-		- `git push`
+		- `git add .` 
+		- `git commit -am "test"` 
+		- `git push` 
 - 论文：LaTeX - Overleaf
 
 1. Github
