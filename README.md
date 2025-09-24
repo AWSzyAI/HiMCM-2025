@@ -16,6 +16,7 @@
 		2. `git config --global user.email "szy@nnu.edu.cn"` 
 		3. `git config --global user.name "Ziyan Shi"`
 		4. `cat ~/.ssh/id_rsa.pub`
+  		5. 复制key到github>账号>设置>SSH and GPG keys
 	- 常用命令
 		- `git clone`
 		- `git pull`
