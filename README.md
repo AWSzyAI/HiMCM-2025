@@ -26,5 +26,29 @@
 - 论文：LaTeX - Overleaf
 
 1. Github
-2. Python
-3. LaTeX
+1. Python
+1. LaTeX
+
+## Lecture 4 2025-09-24 19:00 —— 21:00
+1. 配置环境
+    - VPN环境：https://ikuuu.de/auth/register?code=TcGS >下载Clash -> Clash 订阅链接>一键导入Clash配置
+        - MacOS教程 https://ikuuu.de/user/tutorial?os=mac&client=clashx
+    - VScode
+    - Python（MacOS）
+    - Conda: Anaconda/miniconda // uv
+    - Jupyter Notebook:*.ipynb 
+2. Github & Git
+    - ssh key
+    - git config
+    - github
+    - git clone & add & commit & push & pull
+3. Markdown & Gitbook & github.io
+4. 论文：LaTeX & Overleaf
+5. Python：基础语法、类、函数、numpy矩阵
+6. numpy, pandas, matplotlib, Pytorch, Tensorflow
+7. ChatGPT & GLM-4.5 API/Deepseek API
+
+
+能力：
+1. 阅读文档的能力 RTFM
+2. 
