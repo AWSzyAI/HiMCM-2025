@@ -37,13 +37,17 @@
     - Python（MacOS）
     - Conda: Anaconda/miniconda // uv
     - Jupyter Notebook:*.ipynb 
-2. Github & Git
+2. Github & Git & Linux/MacOS命令行
     - ssh key
     - git config
     - github
     - git clone & add & commit & push & pull
+	- Linux: `cd`, `ls`, `pwd`, `mkdir`, `rm`, `mv`, `cp`,`cat`
 3. Markdown & Gitbook & github.io
 4. 论文：LaTeX & Overleaf
+	- MacOS: MacTeX
+	- WSL/Linux: TexLive
+	- Windows: MikTeX
 5. Python：基础语法、类、函数、numpy矩阵
 6. numpy, pandas, matplotlib, Pytorch, Tensorflow
 7. ChatGPT & GLM-4.5 API/Deepseek API
