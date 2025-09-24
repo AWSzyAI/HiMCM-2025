@@ -36,6 +36,9 @@
     - VScode
     - Python（MacOS）
     - Conda: Anaconda/miniconda // uv
+		- `conda create -n HiMCM python=3.12`
+        - `conda activate HiMCM`
+        - `pip install -r requirements.txt`
     - Jupyter Notebook:*.ipynb 
 2. Github & Git & Linux/MacOS命令行
     - ssh key
@@ -46,6 +49,8 @@
 3. Markdown & Gitbook & github.io
 4. 论文：LaTeX & Overleaf
 	- MacOS: MacTeX
+		- `bash /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+		- `brew install --cask mactex`
 	- WSL/Linux: TexLive
 	- Windows: MikTeX
 5. Python：基础语法、类、函数、numpy矩阵

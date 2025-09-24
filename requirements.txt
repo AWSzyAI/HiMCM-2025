@@ -1,2 +1,5 @@
 zai-sdk
 dotenv
+torch 
+torchvision 
+torchaudio
