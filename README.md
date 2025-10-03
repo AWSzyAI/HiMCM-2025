@@ -33,7 +33,7 @@
 1. 配置环境
     - VPN环境：https://ikuuu.de/auth/register?code=TcGS >下载Clash -> Clash 订阅链接>一键导入Clash配置
         - MacOS教程 https://ikuuu.de/user/tutorial?os=mac&client=clashx
-    - VScode
+    - VScode：插件Python、Jupyter
     - Python（MacOS）
     - Conda: Anaconda/miniconda // uv
 		- `conda create -n HiMCM python=3.12`
